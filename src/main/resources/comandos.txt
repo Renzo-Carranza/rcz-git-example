@@ -1,0 +1,4 @@
+git reset e25a9a26292bb86a9fac49982e028c3ee60052d4 application-test.properties
+git commit -m "revert RCZ-005: First version"
+git pull
+git push
